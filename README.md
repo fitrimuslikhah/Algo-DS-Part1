@@ -6,7 +6,7 @@ clone project ini dengan cara
 git clone https://github.com/Immersive-DataEngineer-Resource/Algo-DS-Part1.git
 ```
 
-setelah clone selesai, jalankan perintah `cd Algo-DS-Part` --> **HAL INI DILAKUKAN 1x saja**
+setelah clone selesai, jalankan perintah `cd Algo-DS-Part1` --> **HAL INI DILAKUKAN 1x saja**
 
 Setelah pindah folder, lakukan perintah dibawah ini secara berurutan :
 
@@ -20,7 +20,7 @@ setelah menjalankan perintah diatas, lakukan inisialisasi ulang untuk git dengan
 git init
 ```
 
-buat repository pada github organization kalian dengan format: `Algo-DS-Part`
+buat repository pada github organization kalian dengan format: `Algo-DS-Part1`
 
 ## Tatacara Mengerjakan Tugas
 
