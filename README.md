@@ -1,41 +1,27 @@
 # Tatacara Melakukan Setup Tugas
 
-clone project ini dengan cara
+Langkah-langkah dengan ilustrasi gambar bisa dilihat di link berikut [SUBMISSION TASK](https://docs.google.com/presentation/d/1n_bXaAbSSoxznhN7m-w2ZnU_N07p_N4MpMI3dCxH2QI/edit#slide=id.g248d6597362_0_573)
 
-```
-git clone https://github.com/Immersive-DataEngineer-Resource/Algo-DS-Part1.git
-```
+## Use Template Github
 
-setelah clone selesai, jalankan perintah `cd Algo-DS-Part1` --> **HAL INI DILAKUKAN 1x saja**
+1. Pilih menu `Use this template`
+2. Buat repository pada `github organisasi` untuk pengumpulan tugas!
+3. Berinama repository dengan nama sesuai `nama tugas`!
+4. Repository wajib dibuat `Public`
 
-Setelah pindah folder, lakukan perintah dibawah ini secara berurutan :
+## Lakukan Git Clone
 
-```
-rm -rf .git
-```
+1. Lakukan Git Clone di local komputer kamu!
+2. Buka clone project di editor code!
 
-setelah menjalankan perintah diatas, lakukan inisialisasi ulang untuk git dengan
+## Buat Solusi
 
-```
-git init
-```
+1. Buat solusi code di dalam function yang telah disiapkan.
+2. Running solusi yang dibuat di terminal!
+3. Running Unit Testing dan pastikan semua mendapatkan status PASS/OK!
 
-buat repository pada github organization kalian dengan format: `Algo-DS-Part1`
+## Jika Solusi Sudah PASS/OKE
 
-## Tatacara Mengerjakan Tugas
-
-1. Lengkapi function yang sudah disediakan
-2. **DILARANG MENGUBAH TIPE DATA HASIL RETURN**
-3. Untuk melakukan run program setiap soal lakukan seperti contoh(sesuaikan keperluan):
-   ```
-   cd problem1
-   ```
-4. Setelah semua program selesai dikerjakan, jalankan
-   ```
-   python3 -m unittest test_main.py -v
-   ```
-5. Screenshoot terminal hasil perintah nomor 4.
-   ![contoh](./running_test/problem-x-[example].png)
-
-6. Push project ini dan hasil screenshoot ke repo yang telah dibuat pada github organization.
-7. Selamat Mengerjakan!!! :grin:
+1. Screenshot hasil Unit Testing dan terus hasil creenshot di folder `running_test`.
+2. Lakukan commit code!
+3. Push code dari git local ke Github!
