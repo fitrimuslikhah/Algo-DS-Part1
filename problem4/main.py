@@ -1,6 +1,5 @@
 def generate_primes_grid(width, height, start):
-    result = ""
-    return result
+    
 
 if __name__ == "__main__":
     print(generate_primes_grid(2, 3, 13))
